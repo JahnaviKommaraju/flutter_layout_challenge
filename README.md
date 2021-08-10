@@ -1,6 +1,6 @@
 # flutter_layout_challenge
 
-A new Flutter project.
+Layout Challenge Flutter project.
 
 ## Getting Started
 
